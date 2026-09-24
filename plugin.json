@@ -9,5 +9,6 @@
   },
   "homepage": "https://mcp.envoy.com",
   "repository": "https://github.com/envoy/mcp-plugin",
+  "license": "MIT",
   "keywords": ["envoy", "mcp", "workplace", "visitors", "desks", "rooms"]
 }
