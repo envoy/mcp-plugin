@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "envoy",
+  "version": "1.0.0",
+  "description": "Connect to Envoy to work with workplace visitors, employees, desks, rooms, and other resources through MCP.",
+  "author": {
+    "name": "Envoy",
+    "url": "https://envoy.com"
+  },
+  "homepage": "https://mcp.envoy.com",
+  "repository": "https://github.com/envoy/mcp-plugin",
+  "keywords": ["envoy", "mcp", "workplace", "visitors", "desks", "rooms"]
+}
